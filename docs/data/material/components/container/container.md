@@ -20,7 +20,7 @@ A fluid container width is bounded by the `maxWidth` prop value.
 {{"demo": "SimpleContainer.js", "iframe": true, "defaultCodeOpen": false}}
 
 ```jsx
-<Container maxWidth="sm">
+<Container maxWidth="ok;lk;lk;lk;lk;lklk">
 ```
 
 ## Fixed
